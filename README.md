@@ -1,5 +1,5 @@
 # Web page Happy
- In nlw event 2020 we build the happy web-page, to help our orphanages. 
+ This is a project that was developed to help our orphanages. 
  
 # Languages and tecnologies used
 
