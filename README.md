@@ -3,7 +3,7 @@
  
 # Languages and tecnologies used
 
- In this project i use html(posteriorly was change to hbs for some informations in the page change according to the orphanage choisen by the user), css and javascript in back-end with node js and in front-end.
+In this project, I used HTML (later replaced with HBS to make the webpage more dynamic, allowing content to change based on the orphanage selected by the user), CSS, and JavaScript on the backend, with Node.js handling the application logic.
 
 #Requirements
 - `npm install sqlite3`
